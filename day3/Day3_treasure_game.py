@@ -20,6 +20,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
+name = input("Hello please fill up your name here!": )
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.") 
 direction = input("You are a cross the road Do you wanna go left or right?: ")
