@@ -2,7 +2,7 @@
 10 November 2020
 
 # 100-Day-project
-remaining 97
+remaining 96
 
 ### Description
 
