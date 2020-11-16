@@ -6,7 +6,7 @@ remaining 93
 
 ### Description
 
-This project contains 100 sub project in order to practice and learn python to be master
+This project contains 100 sub projects in order to practice and learn python to be master
 
 Enjoy watching my Github!
 :sunny:
